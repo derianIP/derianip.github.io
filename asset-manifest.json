@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5a3d02a9.chunk.css",
-    "main.js": "/static/js/main.e72474e9.chunk.js",
-    "main.js.map": "/static/js/main.e72474e9.chunk.js.map",
+    "main.js": "/static/js/main.77c2752a.chunk.js",
+    "main.js.map": "/static/js/main.77c2752a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.13e1a2f3.js",
     "runtime-main.js.map": "/static/js/runtime-main.13e1a2f3.js.map",
     "static/css/2.5c573378.chunk.css": "/static/css/2.5c573378.chunk.css",
@@ -24,10 +24,10 @@
     "static/media/final-2.c64ef6ca.png": "/static/media/final-2.c64ef6ca.png",
     "static/media/laravel.8b2939ca.png": "/static/media/laravel.8b2939ca.png",
     "static/media/mongodb.41634622.png": "/static/media/mongodb.41634622.png",
-    "static/media/my-resume.ac5801ce.png": "/static/media/my-resume.ac5801ce.png",
+    "static/media/my-resume.a94644fb.png": "/static/media/my-resume.a94644fb.png",
     "static/media/mysq.6e42b2a0.png": "/static/media/mysq.6e42b2a0.png",
-    "static/media/npk-billing.357b33c9.png": "/static/media/npk-billing.357b33c9.png",
-    "static/media/npks.3b4564d2.png": "/static/media/npks.3b4564d2.png",
+    "static/media/npk-billing.29045d7c.png": "/static/media/npk-billing.29045d7c.png",
+    "static/media/npks.32cc335f.png": "/static/media/npks.32cc335f.png",
     "static/media/oracle.995c90d9.png": "/static/media/oracle.995c90d9.png",
     "static/media/reactjs.a2661c0e.png": "/static/media/reactjs.a2661c0e.png",
     "static/media/trello.cd935daf.png": "/static/media/trello.cd935daf.png"
@@ -37,6 +37,6 @@
     "static/css/2.5c573378.chunk.css",
     "static/js/2.554b0e8b.chunk.js",
     "static/css/main.5a3d02a9.chunk.css",
-    "static/js/main.e72474e9.chunk.js"
+    "static/js/main.77c2752a.chunk.js"
   ]
 }
