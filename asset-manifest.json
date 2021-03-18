@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.84031b92.chunk.css",
-    "main.js": "/static/js/main.fa94b98e.chunk.js",
-    "main.js.map": "/static/js/main.fa94b98e.chunk.js.map",
+    "main.js": "/static/js/main.d97f61a7.chunk.js",
+    "main.js.map": "/static/js/main.d97f61a7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.13e1a2f3.js",
     "runtime-main.js.map": "/static/js/runtime-main.13e1a2f3.js.map",
     "static/css/2.5c573378.chunk.css": "/static/css/2.5c573378.chunk.css",
@@ -25,7 +25,7 @@
     "static/media/final-2.c64ef6ca.png": "/static/media/final-2.c64ef6ca.png",
     "static/media/laravel.8b2939ca.png": "/static/media/laravel.8b2939ca.png",
     "static/media/mongodb.41634622.png": "/static/media/mongodb.41634622.png",
-    "static/media/my-resume.a94644fb.png": "/static/media/my-resume.a94644fb.png",
+    "static/media/my-resume.b9c4215c.png": "/static/media/my-resume.b9c4215c.png",
     "static/media/mysq.6e42b2a0.png": "/static/media/mysq.6e42b2a0.png",
     "static/media/npk-billing.29045d7c.png": "/static/media/npk-billing.29045d7c.png",
     "static/media/npks.32cc335f.png": "/static/media/npks.32cc335f.png",
@@ -38,6 +38,6 @@
     "static/css/2.5c573378.chunk.css",
     "static/js/2.554b0e8b.chunk.js",
     "static/css/main.84031b92.chunk.css",
-    "static/js/main.fa94b98e.chunk.js"
+    "static/js/main.d97f61a7.chunk.js"
   ]
 }
