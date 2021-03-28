@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.971531c3.chunk.css",
-    "main.js": "/static/js/main.d4f152c1.chunk.js",
-    "main.js.map": "/static/js/main.d4f152c1.chunk.js.map",
+    "main.js": "/static/js/main.968ef7a4.chunk.js",
+    "main.js.map": "/static/js/main.968ef7a4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.767981c8.js",
     "runtime-main.js.map": "/static/js/runtime-main.767981c8.js.map",
     "static/css/2.5c573378.chunk.css": "/static/css/2.5c573378.chunk.css",
@@ -30,9 +30,11 @@
     "static/media/figma.187c91dc.svg": "/static/media/figma.187c91dc.svg",
     "static/media/figma.cbe448b4.png": "/static/media/figma.cbe448b4.png",
     "static/media/final-2.c64ef6ca.png": "/static/media/final-2.c64ef6ca.png",
+    "static/media/firebase-seeklogo.com.ea1a2d66.svg": "/static/media/firebase-seeklogo.com.ea1a2d66.svg",
     "static/media/git-icon.c60b7e5a.svg": "/static/media/git-icon.c60b7e5a.svg",
     "static/media/github-square-brands.d8c55471.svg": "/static/media/github-square-brands.d8c55471.svg",
     "static/media/github.a7e77c23.svg": "/static/media/github.a7e77c23.svg",
+    "static/media/hello-doctor.1cb7ffb0.png": "/static/media/hello-doctor.1cb7ffb0.png",
     "static/media/html-5.d64ea712.svg": "/static/media/html-5.d64ea712.svg",
     "static/media/instagram-square-brands.34f99064.svg": "/static/media/instagram-square-brands.34f99064.svg",
     "static/media/javascript.814da095.svg": "/static/media/javascript.814da095.svg",
@@ -47,8 +49,11 @@
     "static/media/oracle-sql.b42758b5.svg": "/static/media/oracle-sql.b42758b5.svg",
     "static/media/oracle.995c90d9.png": "/static/media/oracle.995c90d9.png",
     "static/media/php.0e023c9b.svg": "/static/media/php.0e023c9b.svg",
+    "static/media/react-native-firebase-1.3b14b81b.svg": "/static/media/react-native-firebase-1.3b14b81b.svg",
+    "static/media/react-native.e4d3b8e1.png": "/static/media/react-native.e4d3b8e1.png",
     "static/media/reactjs.48c84728.svg": "/static/media/reactjs.48c84728.svg",
     "static/media/reactjs.a2661c0e.png": "/static/media/reactjs.a2661c0e.png",
+    "static/media/redux.0e4fb1c8.svg": "/static/media/redux.0e4fb1c8.svg",
     "static/media/sencha.01229daa.svg": "/static/media/sencha.01229daa.svg",
     "static/media/trello.cd935daf.png": "/static/media/trello.cd935daf.png",
     "static/media/twitter-square-brands.15037ae0.svg": "/static/media/twitter-square-brands.15037ae0.svg"
@@ -58,6 +63,6 @@
     "static/css/2.5c573378.chunk.css",
     "static/js/2.3f7019e2.chunk.js",
     "static/css/main.971531c3.chunk.css",
-    "static/js/main.d4f152c1.chunk.js"
+    "static/js/main.968ef7a4.chunk.js"
   ]
 }
